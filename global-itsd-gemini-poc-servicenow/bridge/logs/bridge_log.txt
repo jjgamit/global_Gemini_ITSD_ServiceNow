@@ -1,0 +1,11 @@
+2026-10-14 17:26:05,579 - INFO - Registered plugin: bot_echo.py
+2026-10-14 17:26:06,648 - INFO - Registered backend: GeminiService (botId prefix: gemini:)
+2026-10-14 17:26:06,648 - INFO - Registered plugin: bot_service.py
+2026-10-14 17:26:06,649 - INFO - RCMS Bridge starting (WSS=False)
+2026-10-14 17:26:06,649 - DEBUG - Using proactor: IocpProactor
+2026-10-14 17:26:06,652 - WARNING - TLS/SSL: DISABLED (WS) - using unencrypted connection
+2026-10-14 17:26:06,652 - INFO - RCMS Bridge listening on 127.0.0.1:8444
+2026-10-14 17:26:06,657 - INFO - server listening on 127.0.0.1:8444
+2026-10-14 17:26:06,657 - INFO - Server running on ws://127.0.0.1:8444
+2026-10-14 17:26:06,658 - INFO - JWT bearer token authentication: DISABLED
+2026-10-14 17:26:06,663 - INFO - Press Ctrl+C to stop

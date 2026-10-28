@@ -1,0 +1,14 @@
+2026-10-14 17:23:24,334 - INFO - Registered plugin: bot_echo.py
+2026-10-14 17:23:26,014 - WARNING - No AI providers configured at startup. bot.start with elevenlabs:/gemini:/openai:/xai: prefixes will be rejected with code 501. Set at least one of ELEVENLABS_API_KEY, GEMINI_API_KEY, OPENAI_API_KEY, or XAI_API_KEY to enable a provider. Echo (botId 'echo') remains available for testing.
+2026-10-14 17:23:26,014 - INFO - Registered plugin: bot_service.py
+2026-10-14 17:23:26,015 - INFO - RCMS Bridge starting (WSS=False)
+2026-10-14 17:23:26,015 - DEBUG - Using proactor: IocpProactor
+2026-10-14 17:23:26,019 - WARNING - TLS/SSL: DISABLED (WS) - using unencrypted connection
+2026-10-14 17:23:26,019 - INFO - RCMS Bridge listening on 127.0.0.1:8444
+2026-10-14 17:23:26,056 - INFO - server listening on 127.0.0.1:8444
+2026-10-14 17:23:26,056 - INFO - Server running on ws://127.0.0.1:8444
+2026-10-14 17:23:26,056 - INFO - JWT bearer token authentication: DISABLED
+2026-10-14 17:23:26,057 - INFO - Press Ctrl+C to stop
+2026-10-14 17:25:43,002 - INFO - server closing
+2026-10-14 17:25:43,002 - INFO - server closed
+2026-10-14 17:25:43,003 - INFO - Server stopped
